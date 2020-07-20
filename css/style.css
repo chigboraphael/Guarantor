@@ -71,6 +71,7 @@ body{
     left: 80px;
     top:403px;
     border-radius: 8px;
+    border: 1px solid rgba(33, 63, 125, 0.06);
 }
 
 
