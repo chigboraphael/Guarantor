@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600&display=swap');
 
 body{
-    background: #faf7f7;;
+    background: #fbfbfb;
     width: 100%;
 }
 .container{
@@ -10,54 +10,15 @@ body{
     padding: 20%;
 }
 
-.top-icon-1{
-    background: #00AEEF;
-    width:34.34px;
-    height: 27.18px;
+.top-icon{
+    width:143.25px;
+    height: 45px;
     position: absolute;
     left: 5.56%;
     right: 92.06%;
     top: 5.86%;
     bottom: 91.49%;
-    box-shadow: var(--shadow);
 }
-
-.top-icon-2{
-    background: #005B97;
-    width:34.34px;
-    height: 36.07px;
-    position: absolute;
-    left: 5.56%;
-    right: 92.06%;
-    top: 6.73%;
-    bottom: 89.75%;
-    box-shadow: var(--shadow);
-}
-
-.top-icon-3{
-    background: #005B97;
-    width:34.34px;
-    height: 36.07px;
-    position: absolute;
-    left: 9.02%;
-    right: 88.8%;
-    top: 6.51%;
-    bottom: 90.82%;
-    box-shadow: var(--shadow);
-}
-
-.top-icon-4{
-    background: #005B97;
-    width:34.34px;
-    height: 36.07px;
-    position: absolute;
-    left: 11.2%;
-    right: 84.5%;
-    top: 6.55%;
-    bottom: 90.78%;
-    box-shadow: var(--shadow);
-}
-
 
 .grace{
     width:379px;
@@ -606,7 +567,5 @@ top: 167px;
     left: 740.78px;
     top: 932px;
 }
-
-/* style for verify email decline.*/
 
 
